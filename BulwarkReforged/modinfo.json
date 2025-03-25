@@ -1,0 +1,11 @@
+{
+    "type": "code",
+    "modid": "bulwarkreforged",
+    "name": "BulwarkReforged",
+    "authors": [ "Lastelle", "Veza"],
+    "description": "A civilisation mod",
+    "version": "0.0.1",
+    "dependencies": {
+        "game": ""
+    }
+}

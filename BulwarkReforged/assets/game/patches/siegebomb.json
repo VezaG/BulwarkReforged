@@ -1,0 +1,8 @@
+[
+	{
+		"file": "game:blocktypes/cloth/bomb",
+		"op": "add",
+		"path": "/attributes/siegeEquipment",
+		"value":  true
+	}
+]
